@@ -28,8 +28,8 @@ st.title("Journal of Applied Psychology Topic Trends Over Time")
 
 st.markdown(
     """
-This interactive page shows trends for the topics and broader themes represented in the
-special issue editorial.
+This interactive page shows trends for the topics and broader themes that deal with issues
+of social impact.
 
 **Raw counts** show the number of JAP articles in each 5-year window that were assigned
 to each focal topic or theme.
